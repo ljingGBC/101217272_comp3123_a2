@@ -1,0 +1,28 @@
+Individual Assignment - 2
+COMP 3123 – Full Stack Development I
+Total Points (12%)
+Submission Deadline: Sunday, 06th Dec 2020 11:59 PM (Week13)
+
+Note: 
+1.	Create git repository name studentid_comp3123_a2
+2.	Create free account if you don’t have one on https://openweathermap.org/ to get API key
+3.	Use axios to fetch data
+4.	Please read the response fields detail from https://openweathermap.org/forecast16 
+	https://openweathermap.org/weather-conditions 
+5.	Use following end point to get weather data 
+	http://api.openweathermap.org/data/2.5/weather?q=Toronto&appid={{APIkey}}
+
+Assignment Details
+
+•	Refer attached JSON file for response
+
+1.	Create a ReactJS application having name studentId_comp3123_a2 and connect to GitHub repository (2 Point)
+
+2.	Used icons for weather condition. Refer icons from https://openweathermap.org/weather-conditions (2 Points)
+
+	Sample: http://openweathermap.org/img/wn/10d@2x.png
+
+3.	Based on the response from API think of your own UI ideas and display all the information in user friendly manner. (6 points)
+
+4.	Display relevant required information from response. Can use any free template for design. (1 Point)
+5.	Create ReadMe.md file on GitHub to document and show your screens output. (1 Point)
