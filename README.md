@@ -1,3 +1,7 @@
+COMP3123 Assignment2 Lei Jing 101217272
+ReactJS Project - Weather API
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
